@@ -25,7 +25,8 @@ for week in month_calendar:
         print(" ", end="") # Add a space between the days
     print() # Start a new line for the next week
 
-
+# The month above is starting on a Friday when I want it to start on a Saturday, not sure why,
+# evaluating the documentation
 
 
 
