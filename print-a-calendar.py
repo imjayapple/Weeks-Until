@@ -1,7 +1,7 @@
 import calendar
 
 # Define the month and the year
-month = 4 # April
+month = 5 # April
 year = 2023
 
 # Create a TextCalendar object with the week starting on Saturday
@@ -25,8 +25,6 @@ for week in month_calendar:
         print(" ", end="") # Add a space between the days
     print() # Start a new line for the next week
 
-# The month above is starting on a Friday when I want it to start on a Saturday, not sure why,
-# evaluating the documentation
 
 
 
